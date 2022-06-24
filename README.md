@@ -17,3 +17,4 @@ I'm a passionate Web Developer
   
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=fff)
