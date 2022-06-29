@@ -31,6 +31,7 @@ I'm a passionate Web Developer
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   
 ![Git](https://img.shields.io/badge/-Git-E44C30?style=for-the-badge&logo=git&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=fff)
   
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
