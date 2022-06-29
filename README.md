@@ -6,6 +6,7 @@ I'm a passionate Web Developer
 - I'm a student at <strong>[EPITA](https://www.epita.fr)</strong>
 - I'm from France, living in Paris
 - Working at <strong>[Orange Business Services](https://www.orange-business.com/fr)</strong>
+- I'm learning React, NodeJs & NoSQL
 
 ## Technologies & Tools
 
