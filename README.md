@@ -9,12 +9,24 @@ I'm a passionate Web Developer
 
 ## Technologies & Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=F7DF1E)
-![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=flat-square&logo=php&logoColor=ffffff&color=4F5B93)
-![Python](https://img.shields.io/badge/-Python-%231572B6?style=flat-square&logo=python&logoColor=ffffff&color=3776AB)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=F7DF1E)
+![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=for-the-badge&logo=php&logoColor=ffffff&color=4F5B93)
+![Python](https://img.shields.io/badge/-Python-%231572B6?style=for-the-badge&logo=python&logoColor=ffffff&color=3776AB)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+![Git](https://img.shields.io/badge/-Git-E44C30?style=for-the-badge&logo=git&logoColor=fff)
+  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
