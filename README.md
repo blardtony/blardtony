@@ -26,7 +26,11 @@ I'm a passionate Web Developer
   
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   
 ![Git](https://img.shields.io/badge/-Git-E44C30?style=for-the-badge&logo=git&logoColor=fff)
   
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  
+## Statistiques
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blardtony&theme=blue-green)
