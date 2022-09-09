@@ -34,7 +34,7 @@ I'm a passionate Web Developer
   
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
-## Statistiques
+## Stats
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blardtony&theme=default)
    
 ![Stats](https://github-readme-stats.vercel.app/api?username=blardtony&theme=default)
