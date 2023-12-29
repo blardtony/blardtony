@@ -13,6 +13,7 @@ I'm a passionate Web Developer
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=F7DF1E)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=for-the-badge&logo=php&logoColor=ffffff&color=4F5B93)
 ![Python](https://img.shields.io/badge/-Python-%231572B6?style=for-the-badge&logo=python&logoColor=ffffff&color=3776AB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
