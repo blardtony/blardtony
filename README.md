@@ -1,6 +1,6 @@
 # Hello, I'm Tony
 
-I'm a passionate Web Developer
+I'm a <strong>Symfony developer</strong>.
 
 ## About me
 - I'm a student at <strong>[EPITA](https://www.epita.fr)</strong>
@@ -17,7 +17,6 @@ I'm a passionate Web Developer
 ![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=for-the-badge&logo=php&logoColor=ffffff&color=4F5B93)
   
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express)
