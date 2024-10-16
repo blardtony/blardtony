@@ -3,9 +3,9 @@
 I'm a <strong>Symfony developer</strong>.
 
 ## About me
-- I'm a student at <strong>[EPITA](https://www.epita.fr)</strong>
+- Working at <strong>[Poisson Soluble](https://www.poisson-soluble.com/)</strong>
+- I was a student at <strong>[EPITA](https://www.epita.fr)</strong>
 - I'm from France, living in Montpellier
-- Working at <strong>[Orange Business](https://www.orange-business.com/fr)</strong>
 - I'm learning <strong>React & ExpressJs</strong>
 
 ## Technologies & Tools
